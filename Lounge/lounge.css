@@ -5,8 +5,8 @@
 	h1, h2 {
 		padding-left: .5em;
 		
-		color: gray;
-		font-family: fantasy;
+		color: teal;
+		font-family: courier;
 }
 	h1 {
 		border-bottom: 1px solid black;

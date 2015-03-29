@@ -1,3 +1,39 @@
-body {
-	font-family: Veranda, Geneva, Arial, sans-serif;
+@font-face {
+		font-family: "Emblema One";
+		src: url("http://wickedlysmart.com/hfhtmlcss/chapter8/journal/EmblemaOne-Regular.woff")
+}
+	h1, h2 {
+		color: #c60;
+		border-bottom: thin dotted #888;
+}
+	h1 {
+		font-family: "Emblema One";
+		font-size: 220%;
+}
+	h2 {
+		font-size: 130%;
+		font-weight: normal;
+		font-style: oblique;
+}
+	body {
+		background-color: #ccc;
+		margin-left: 20%;
+		margin-right: 20%;
+		font-family: Veranda, Geneva, Arial, sans-serif;
+		padding: .5em;
+		font-size: normal;
+}		
+	dd {
+		font-family: "Emblema One";
+		font-style: italic
+}
+	dt {
+		margin: 1em;
+		margin-bottom: .3;
+}
+	blockquote {
+		font-family: cursive;
+}
+	.image {
+		text-align: center;
 }
