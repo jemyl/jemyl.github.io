@@ -1,0 +1,40 @@
+	p {
+		color: maroon;
+}
+	
+	h1, h2 {
+		padding-left: .5em;
+		
+		color: gray;
+		font-family: fantasy;
+}
+	h1 {
+		border-bottom: 1px solid black;
+}
+	body {
+		font-family: serif;
+		background-color: #a0b00c;
+		margin-left: 20%;
+		margin-right: 20%;
+		
+		font-family: sans-serif;
+}
+	#Head_First_Lounge {
+		margin-top: 2em;
+		margin-bottom: 2em;
+		color: red;
+		
+	}
+	#image { 
+		margin-bottom: 2em;
+		
+}
+	img {
+		padding-left: 2em;
+		font-size: 50px 200px;
+}
+	 .border {
+		
+		margin-left: 1em;
+		margin-bottom: 1em		
+}
